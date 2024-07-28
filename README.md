@@ -9,4 +9,4 @@ o	Implemented CURD operations for guest and billing management.
 
 o	Utilized JDBC for database connectivity and SQL for data storage and retrieval.
 
--	**Technologies Used:** HTML, CSS, Java, Spring Framework, JDBC, SQL
+-	**Technologies Used:** Java, Spring Framework, JDBC, SQL
